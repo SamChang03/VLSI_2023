@@ -15,7 +15,7 @@ vg vg 0 pwl(0n 0v 1n 0v 1.5n 1.8v 4.5n 1.8v 5n 0v 6n 0v)
 
 .param l=.3u
 
-.param n=4.23
+.param n=4.23 
 .param w=1.8u
 .param m=5
 
