@@ -1,4 +1,5 @@
-*** 110030039 Homework 1
+*** 110030039 Homework 1 ***
+*** Measure the input to output delay of the inverter ***
 
 .protect
 .lib `cic018.l' tt
