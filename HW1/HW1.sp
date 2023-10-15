@@ -45,5 +45,3 @@ C1 vout 0 0.1p
 .temp 25
 
 .end
-
-.end
