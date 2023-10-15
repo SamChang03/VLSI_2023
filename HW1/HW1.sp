@@ -29,15 +29,21 @@ C1 vout 0 0.1p
 .tran 10ps 7n
 
 .alter
-.lib `cic018.l' FF 125
+.lib `cic018.l' FF 
+.temp -40
 
 .alter
-.lib `cic018.l' SS -40
+.lib `cic018.l' SS 
+.temp 125
 
 .alter
 .lib `cic018.l' SF
+.temp 25
 
 .alter
 .lib `cic018.l' FS
+.temp 25
+
+.end
 
 .end
