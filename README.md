@@ -11,3 +11,8 @@ This repository contains the work for the NTHU 11210EE323000 Topic on Introducti
 - [HW1](https://github.com/SamChang03/VLSI_2023/tree/main/HW1)
 - Main purpose: Review simplification of boolean algebra and CMOS gate implemantation
 - Tools: HSPICE, Virtuoso, Laker, Calibre, Custom Waveview
+
+# HW2 Noice margin and Gate delay estimation
+- [HW1](https://github.com/SamChang03/VLSI_2023/tree/main/HW2)
+- Main purpose: Runnign simulation about noice margin and find the best/worst case with NAND3 as well as invertor
+- Tools: HSPICE, Custom Waveview
